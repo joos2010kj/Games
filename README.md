@@ -11,11 +11,7 @@ This repo holds a collection of games I have made in Java, JavaScript, and C++. 
       [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/Java/Cross/Screen%20Shot/SS.png)
     
 2. [Flying Bird](https://github.com/joos2010kj/Games/tree/master/Java/Flying%20Bird)
-    - A simplified, clone version of the famous mobile game Flappy Bird, Flying Bird is a game where the client has to control a bird not to hit the bricks as the bird flies onward. The control is simple as usual -- just a SPACEBAR! Score will be based on the number of blocks you successfully got past, so try to fly past as many blocks as possible!
-      
-      CONTROLS: SPACEBAR
-      
-      [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/Java/Flying%20Bird/Screen%20Shot/SS.png)
+    - A simplified, clone version of the famous mobile game Flappy Bird, Flying Bird is a game where the client has to control a bird not to hit the bricks as the bird flies onward. The control is simple as usual (just a SPACEBAR)! Score will be based on the number of blocks you successfully got past, so try to fly past as many blocks as possible!
 
 3. [Mind Sweeper](https://github.com/joos2010kj/Games/tree/master/Java/Mind%20Sweeper)
     - A clone version of the famous classic game Minesweeper, Mind Sweeper requires the client to locate all the bombs in the field.  You can decide on the number of bombs you want there to be, and they will be hidden at random. Unfortunately, this game doesn't support mouse, but the control is very simple: ARROW KEYS to move across the 2D grid, SPACEBAR to reveal, SHIFT to flag the region.  
@@ -47,4 +43,61 @@ This repo holds a collection of games I have made in Java, JavaScript, and C++. 
     
 ### JAVASCRIPT
 
+1. [Roll and Roll](https://github.com/joos2010kj/Games/tree/master/JavaScript/Roll%20and%20Roll)
+    - Description
+    
+        CONTROLS: MOUSE or MIC
+        
+        [SCREENSHOT 1](https://github.com/joos2010kj/Games/blob/master/JavaScript/Roll%20and%20Roll/Screen%20Shot/SS1.png)
+        [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Roll%20and%20Roll/Screen%20Shot/SS2.png)
+        
+2. [Hangman](https://github.com/joos2010kj/Games/tree/master/JavaScript/Hangman)
+    - Description
+    
+        CONTROLS: KEYBOARD
+        
+        [SCREENSHOT 1](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hangman/Screen%20Shot/SS1.png)
+        
+        [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hangman/Screen%20Shot/SS2.png)
+
+3. [Hide and Seek](https://github.com/joos2010kj/Games/tree/master/JavaScript/Hide%20and%20Seek)
+    - Description
+    
+        CONTROLS: MOUSE
+        
+        [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hide%20and%20Seek/Screen%20Shot/SS.png)
+        
+4. [Rain Evasion](https://github.com/joos2010kj/Games/tree/master/JavaScript/Rain%20Evasion)
+    - Description
+        
+        CONTROLS: MOUSE
+        
+        [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Rain%20Evasion/Screen%20Shot/SS.png)
+
+5. [Rhythm](https://github.com/joos2010kj/Games/tree/master/JavaScript/Rhythm)
+    - Description
+    
+        CONTROLS: MOUSE
+        
+        [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Rhythm/Screen%20Shot/SS.png)
+
+6. [Flappy Bird Clone](https://github.com/joos2010kj/Games/tree/master/JavaScript/Flappy%20Bird)
+    - Description
+      
+      CONTROLS: SPACEBAR
+      
+      [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/Java/Flying%20Bird/Screen%20Shot/SS.png)
+      
+7. [Snake Clone](https://github.com/joos2010kj/Games/tree/master/JavaScript/Snake%20(Incomplete))
+    - Description
+    
+        CONTROLS: ARROW KEYS
+        
+        [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Snake%20(Incomplete)/Screen%20Shot/SS.png)
+        
 ### C++
+
+1. [Pop](https://github.com/joos2010kj/Games/tree/master/C%2B%2B/Pop)
+    - Description
+    
+        CONTROLS: ARROW KEYS
