@@ -49,11 +49,24 @@ This repo holds a collection of games I have made in Java, JavaScript, and C++. 
 ### JAVASCRIPT
 
 1. [Roll and Roll](https://github.com/joos2010kj/Games/tree/master/JavaScript/Roll%20and%20Roll)
-    - Description
+    - Roll and Roll, the Game of a Rolling Ball and Ascending Platforms!
+
+        OBJECTIVE: Make the ball last as long as possible.
+
+        CONTROLS: You can change the direction of the ball with...
+
+            Mouse Click OR
+            Brief Loud Noise (e.g. Clap, Tapping on any hard object with a fingernail, etc.)
     
-        CONTROLS: MOUSE or MIC
-        
+        HOW TO PLAY: Try to lead the ball to the gap in each level and let it get to the lowest level.
+
+        NOTE:
+        1) Touching the bottom is fine, but touching the top leads to GAME OVER.
+        2) If you want to use the brief loud noise as a means of changing the ball's direction, you must ALLOW the microphone usage in the beginning.
+        3) You can start the game by clicking anywhere in the canvas once it's loaded.
+       
         [SCREENSHOT 1](https://github.com/joos2010kj/Games/blob/master/JavaScript/Roll%20and%20Roll/Screen%20Shot/SS1.png)
+        
         [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Roll%20and%20Roll/Screen%20Shot/SS2.png)
         
 2. [Hangman](https://github.com/joos2010kj/Games/tree/master/JavaScript/Hangman)
