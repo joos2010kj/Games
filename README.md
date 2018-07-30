@@ -12,6 +12,11 @@ This repo holds a collection of games I have made in Java, JavaScript, and C++. 
     
 2. [Flying Bird](https://github.com/joos2010kj/Games/tree/master/Java/Flying%20Bird)
     - A simplified, clone version of the famous mobile game Flappy Bird, Flying Bird is a game where the client has to control a bird not to hit the bricks as the bird flies onward. The control is simple as usual (just a SPACEBAR)! Score will be based on the number of blocks you successfully got past, so try to fly past as many blocks as possible!
+    
+        CONTROLS: SPACEBAR
+    
+        [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/Java/Flying%20Bird/Screen%20Shot/SS.png)
+    
 
 3. [Mind Sweeper](https://github.com/joos2010kj/Games/tree/master/Java/Mind%20Sweeper)
     - A clone version of the famous classic game Minesweeper, Mind Sweeper requires the client to locate all the bombs in the field.  You can decide on the number of bombs you want there to be, and they will be hidden at random. Unfortunately, this game doesn't support mouse, but the control is very simple: ARROW KEYS to move across the 2D grid, SPACEBAR to reveal, SHIFT to flag the region.  
