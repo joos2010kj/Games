@@ -2,6 +2,8 @@
 
 This repo holds a collection of games I have made in Java, JavaScript, and C++.  As a passionate coder who does not like to "play" games but love to "make and develop" games, I have uploaded a series of games I have made in multiple languages to this repo.
 
+Quick Note: All of my works written in JavaScript use p5.js library!
+
 ### JAVA
 1. [Cross](https://github.com/joos2010kj/Games/tree/master/Java)
     - A simplified, clone version of the classic game Frogger, Cross is a game where the player has to cross a series of disjointed platforms and get to the right-end side from the left-end side as quickly as possible using only two keys -- LEFT ARROW & RIGHT ARROW.  The clock will be ticking, the number of deaths will be recorded, and the player will be respawned in the very beginning after each death, so try to cross as quickly yet calmly as possible!
@@ -70,7 +72,7 @@ This repo holds a collection of games I have made in Java, JavaScript, and C++. 
         [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Roll%20and%20Roll/Screen%20Shot/SS2.png)
         
 2. [Hangman](https://github.com/joos2010kj/Games/tree/master/JavaScript/Hangman)
-    - Description
+    - A clone version of the classic game Hangman, this game randomly picks a word from an array of words and lets the client take a stab at fully guessing the word right.  Just like the original Hangman, it does give the client several chances to guess, and the correctly-guessed letters will be revealed in the corresponding box of the word in question.
     
         CONTROLS: KEYBOARD
         
@@ -79,35 +81,35 @@ This repo holds a collection of games I have made in Java, JavaScript, and C++. 
         [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hangman/Screen%20Shot/SS2.png)
 
 3. [Hide and Seek](https://github.com/joos2010kj/Games/tree/master/JavaScript/Hide%20and%20Seek)
-    - Description
+    - Hide and Seek is a game where the client (mouse cursor) has to hide from being discovered by an in-game robot, which searches around.  As the controller of the cursor, your ultimate goal is to not be within the robot's angle of vision.  Quick note for you, clients initially tend to believe that hide behind the robot is the best, but it's actually the worst idea because the robot immediately turns around, too!
     
         CONTROLS: MOUSE
         
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hide%20and%20Seek/Screen%20Shot/SS.png)
         
 4. [Rain Evasion](https://github.com/joos2010kj/Games/tree/master/JavaScript/Rain%20Evasion)
-    - Description
+    - Rain Evasion is a game where the player has to swiftly move around (horizontally only) so as to avoid the contact with rain.  Score is primarily based on the number of raindrops you successfully evaded from.  
         
         CONTROLS: MOUSE
         
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Rain%20Evasion/Screen%20Shot/SS.png)
 
 5. [Rhythm](https://github.com/joos2010kj/Games/tree/master/JavaScript/Rhythm)
-    - Description
+    - Rhythm is a game of five rings and a cursor where the player has to move the cursor quickly enough to dodge all the rings coming from all around the places to any of the five center rings.  Once a ring snaps into any of the center rings, it disappears.   
     
         CONTROLS: MOUSE
         
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Rhythm/Screen%20Shot/SS.png)
 
 6. [Flappy Bird Clone](https://github.com/joos2010kj/Games/tree/master/JavaScript/Flappy%20Bird)
-    - Description
+    - A simplified, clone version of the famous mobile game Flappy Bird, this is a game where the client has to control a bird not to hit the bricks as the bird flies onward. The bird is controlled by just a SPACEBAR. Score will be based on the number of blocks you successfully got past, so try to fly past as many blocks as possible!
       
       CONTROLS: SPACEBAR
       
       [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/Java/Flying%20Bird/Screen%20Shot/SS.png)
       
 7. [Snake Clone](https://github.com/joos2010kj/Games/tree/master/JavaScript/Snake%20(Incomplete))
-    - Description
+    - A clone version fo the famous classic game Snake, this is a game where the client needs to lead the in-game snake and help it grow as long as possible by leading it to food and away from its tail and the walls.
     
         CONTROLS: ARROW KEYS
         
@@ -116,6 +118,6 @@ This repo holds a collection of games I have made in Java, JavaScript, and C++. 
 ### C++
 
 1. [Pop](https://github.com/joos2010kj/Games/tree/master/C%2B%2B/Pop)
-    - Description
+    - A game where the player needs to dodge all the obstacles.
     
         CONTROLS: ARROW KEYS
