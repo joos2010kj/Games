@@ -1,4 +1,5 @@
 # Games
+#### *TL;DR: Please read this README.md for an overview/description of each game in this repo.*
 
 This repo holds a collection of games I have made in Java, JavaScript, and C++.  As a passionate coder who does not like to "play" games but love to "make and develop" games, I have uploaded a series of games I have made in multiple languages to this repo.
 
