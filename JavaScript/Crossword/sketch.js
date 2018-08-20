@@ -1,7 +1,4 @@
 const fileURL = "res/wordlist.txt";
-const NUMBER_OF_WORDS = 10;
-const PUZZLE_SIZE = [20, 15]; //(height , width)
-const MIN_LENGTH = 5; //MIN LENGTH of a word is 5
 
 let words;
 let system;
