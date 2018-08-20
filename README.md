@@ -79,43 +79,54 @@ Quick Note: All of my works written in JavaScript use p5.js library!
         [SCREENSHOT 1](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hangman/Screen%20Shot/SS1.png)
         
         [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hangman/Screen%20Shot/SS2.png)
+        
+3. [Crossword](https://github.com/joos2010kj/Games/tree/master/JavaScript/Crossword)
+    - A clone version of the classic game Crossword, this game randomly picks a specified number of words and lets the client locate all the words in a big map/grid filled with random letters.  All they need to do is to click on all the boxes in which the randomly-chosen words' letters lie! The client may specify the number of words he/she wants there to be (NUMBER_OF_WORDS in client_data.js), specify the size of the map (PUZZLE_SIZE in client_data.js), and also specify the minimum length of a word (MIN_LENGTH in client_data.js).
+    
+        CONTROLS: MOUSE
+        
+        [SCREENSHOT 1](https://github.com/joos2010kj/Games/blob/master/JavaScript/Crossword/Screen%20Shot/SS1.png)
+        
+        [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Crossword/Screen%20Shot/SS2.png)
+        
+        [SCREENSHOT 3](https://github.com/joos2010kj/Games/blob/master/JavaScript/Crossword/Screen%20Shot/SS3.png)
 
-3. [Hide and Seek](https://github.com/joos2010kj/Games/tree/master/JavaScript/Hide%20and%20Seek)
+4. [Hide and Seek](https://github.com/joos2010kj/Games/tree/master/JavaScript/Hide%20and%20Seek)
     - Hide and Seek is a game where the client (mouse cursor) has to hide from being discovered by an in-game robot, which searches around.  As the controller of the cursor, your ultimate goal is to not be within the robot's angle of vision.  Quick note for you, clients initially tend to believe that hide behind the robot is the best, but it's actually the worst idea because the robot immediately turns around, too!
     
         CONTROLS: MOUSE
         
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hide%20and%20Seek/Screen%20Shot/SS.png)
         
-4. [Rain Evasion](https://github.com/joos2010kj/Games/tree/master/JavaScript/Rain%20Evasion)
+5. [Rain Evasion](https://github.com/joos2010kj/Games/tree/master/JavaScript/Rain%20Evasion)
     - Rain Evasion is a game where the player has to swiftly move around (horizontally only) so as to avoid the contact with rain.  Score is primarily based on the number of raindrops you successfully evaded from.  
         
         CONTROLS: MOUSE
         
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Rain%20Evasion/Screen%20Shot/SS.png)
 
-5. [Rhythm](https://github.com/joos2010kj/Games/tree/master/JavaScript/Rhythm)
+6. [Rhythm](https://github.com/joos2010kj/Games/tree/master/JavaScript/Rhythm)
     - Rhythm is a game of five rings and a cursor where the player has to move the cursor quickly enough to dodge all the rings coming from all around the places to any of the five center rings.  Once a ring snaps into any of the center rings, it disappears.   
     
         CONTROLS: MOUSE
         
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Rhythm/Screen%20Shot/SS.png)
 
-6. [Flappy Bird Clone](https://github.com/joos2010kj/Games/tree/master/JavaScript/Flappy%20Bird)
+7. [Flappy Bird Clone](https://github.com/joos2010kj/Games/tree/master/JavaScript/Flappy%20Bird)
     - A simplified, clone version of the famous mobile game Flappy Bird, this is a game where the client has to control a bird not to hit the bricks as the bird flies onward. The bird is controlled by just a SPACEBAR. Score will be based on the number of blocks you successfully got past, so try to fly past as many blocks as possible!
       
       CONTROLS: SPACEBAR
       
       [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/Java/Flying%20Bird/Screen%20Shot/SS.png)
       
-7. [Snake Clone](https://github.com/joos2010kj/Games/tree/master/JavaScript/Snake%20(Incomplete))
+8. [Snake Clone](https://github.com/joos2010kj/Games/tree/master/JavaScript/Snake%20(Incomplete))
     - A clone version fo the famous classic game Snake, this is a game where the client needs to lead the in-game snake and help it grow as long as possible by leading it to food and away from its tail and the walls.
     
         CONTROLS: ARROW KEYS
         
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Snake%20(Incomplete)/Screen%20Shot/SS.png)
         
-8. [Catch the Moles](https://github.com/joos2010kj/Games/tree/master/JavaScript/Catch%20the%20Moles)
+9. [Catch the Moles](https://github.com/joos2010kj/Games/tree/master/JavaScript/Catch%20the%20Moles)
 
     - A simplified, clone version of the classic game Whack-a-Mole, Catch the Moles is a game where the player has to catch as many moles as possible in a given period of time.  Several factors can be adjusted by the player, including the period of game (60 seconds by default), the chance of moles’ appearances (0.1% per frame by default), and the duration of a mole’s appearance (0.5 seconds by default),  by changing the values in "option" object literal inside sketch.js.  The moles can be caught by two means — a mouse and a keyboard.  Using a mouse, the moles can be caught if any of them is clicked on time — that is, after it appears but before it disappears.  Also, because the moles in the game are located in a similar manner to how the keys Q, W, E, A, S, D, Z, X, and D are placed in a keyboard, a mole is made to be caught if a respective key is pressed on time, too.  For example, pressing ‘Q’ on time catches the mole in the upper left corner, ’S’ catches the one in the center, ‘C’ catches the one in the lower right corner.
         
