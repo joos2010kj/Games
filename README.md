@@ -80,16 +80,16 @@ Quick Note: All of my works written in JavaScript use p5.js library!
         
         [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hangman/Screen%20Shot/SS2.png)
         
-3. [Word Search](https://github.com/joos2010kj/Games/tree/master/JavaScript/Crossword)
+3. [Word Search](https://github.com/joos2010kj/Games/tree/master/JavaScript/Word%20Search)
     - A clone version of the classic Word Search Puzzle, this game randomly picks a specified number of words and lets the client locate all the words in a big map/grid filled with random letters.  All they need to do is to click on all the boxes in which the randomly-chosen words' letters lie! The client may specify the number of words he/she wants there to be (NUMBER_OF_WORDS in client_data.js), specify the size of the map (PUZZLE_SIZE in client_data.js), and also specify the minimum length of a word (MIN_LENGTH in client_data.js).
     
         CONTROLS: MOUSE
         
-        [SCREENSHOT 1](https://github.com/joos2010kj/Games/blob/master/JavaScript/Crossword/Screen%20Shot/SS1.png)
+        [SCREENSHOT 1](https://github.com/joos2010kj/Games/blob/master/JavaScript/Word%20Search/Screen%20Shot/SS1.png)
         
-        [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Crossword/Screen%20Shot/SS2.png)
+        [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Word%20Search/Screen%20Shot/SS2.png)
         
-        [SCREENSHOT 3](https://github.com/joos2010kj/Games/blob/master/JavaScript/Crossword/Screen%20Shot/SS3.png)
+        [SCREENSHOT 3](https://github.com/joos2010kj/Games/blob/master/JavaScript/Word%20Search/Screen%20Shot/SS3.png)
 
 4. [Hide and Seek](https://github.com/joos2010kj/Games/tree/master/JavaScript/Hide%20and%20Seek)
     - Hide and Seek is a game where the client (mouse cursor) has to hide from being discovered by an in-game robot, which searches around.  As the controller of the cursor, your ultimate goal is to not be within the robot's angle of vision.  Quick note for you, clients initially tend to believe that hide behind the robot is the best, but it's actually the worst idea because the robot immediately turns around, too!
