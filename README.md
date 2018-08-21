@@ -80,8 +80,8 @@ Quick Note: All of my works written in JavaScript use p5.js library!
         
         [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hangman/Screen%20Shot/SS2.png)
         
-3. [Crossword](https://github.com/joos2010kj/Games/tree/master/JavaScript/Crossword)
-    - A clone version of the classic game Crossword, this game randomly picks a specified number of words and lets the client locate all the words in a big map/grid filled with random letters.  All they need to do is to click on all the boxes in which the randomly-chosen words' letters lie! The client may specify the number of words he/she wants there to be (NUMBER_OF_WORDS in client_data.js), specify the size of the map (PUZZLE_SIZE in client_data.js), and also specify the minimum length of a word (MIN_LENGTH in client_data.js).
+3. [Word Search](https://github.com/joos2010kj/Games/tree/master/JavaScript/Crossword)
+    - A clone version of the classic Word Search Puzzle, this game randomly picks a specified number of words and lets the client locate all the words in a big map/grid filled with random letters.  All they need to do is to click on all the boxes in which the randomly-chosen words' letters lie! The client may specify the number of words he/she wants there to be (NUMBER_OF_WORDS in client_data.js), specify the size of the map (PUZZLE_SIZE in client_data.js), and also specify the minimum length of a word (MIN_LENGTH in client_data.js).
     
         CONTROLS: MOUSE
         
