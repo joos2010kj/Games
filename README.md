@@ -148,7 +148,38 @@ Quick Note: All of my works written in JavaScript use p5.js library!
             Mouse
         
         [SCREENSHOTS](https://github.com/joos2010kj/Games/tree/master/JavaScript/Draw%20Your%20Map!/Screen%20Shots)
+       
+11. [Hunter](https://github.com/joos2010kj/Games/tree/master/JavaScript/Hunter)
+    
+    - An FPS shooting game of survival, Hunter is a game where a player has to survive on by purchasing health potions as well as bullets with money the player made from shooting down birds and monsters.  In order to simulate an actual hunting, I have set the scope of the view to be very narrow (as small as a typical rifle scope).  The player's duty is to search the map around with their mouse and locate monsters.  The game starts at 100 HP (Health Point), and the player dies once HP hits 0 or below.
+    
+    In this game, there are two types of monsters.  Here is an information on the types of monsters and their worth in the game: 
         
+        1)  Circular objects sitting on the terrain (Differs by Color)
+            - BLACK: $5
+            - RANDOM: $4
+            - PINK: $3
+            - WHITE: $1
+            
+            Note: Emergence rate decreases as a monster's worth increases
+            
+        2)  Long, rectangular objects ("birds") flying across the sky (Differs by Speed)
+            - Worth Range: $5~$15
+            
+            Note: Faster birds are worth more than slower birds
+
+    - Each time the mouse is clicked, a bullet is launched out of the gun towards the place the mouse initially pointed at, and the number of bullets in possession, which is shown in the upper left corner, decreases by one.  It is in the player's best interest to reload the gun when bullets are running low since the player can no longer shoot once the number of bullets in possession hits 0.  The reload button, which is located in the lower left corner, costs $15, and it will increase the player's bullet numbers by 10.
+    
+      In addition, when the player misses any bird, then the player's HP decreases by 5.  In this game, all the birds emerge from the right side and fly unidirectionally towards left, at a different speed.  In order not to lose HP, it is very important to check the sky and locate and shoot down all the birds before it disappears past the left end.  It is in the player's best interest to purchase potion when HP is running low.  The purchase button, which is located in the lower left corner, costs $15, and it will increase the player's HP by 15.
+      
+      Once the player dies, the total score earned will be shown in the rifle scope.
+
+        CONTROLS:
+    
+            Mouse
+            
+        [SCREENSHOTS](https://github.com/joos2010kj/Games/tree/master/JavaScript/Hunter/Screenshot)
+    
 ### C++
 
 1. [Pop](https://github.com/joos2010kj/Games/tree/master/C%2B%2B/Pop)
