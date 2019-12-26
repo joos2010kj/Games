@@ -66,6 +66,8 @@ Quick Note: All of my works written in JavaScript use p5.js library!
         1) Touching the bottom is fine, but touching the top leads to GAME OVER.
         2) If you want to use the brief loud noise as a means of changing the ball's direction, you must ALLOW the microphone usage in the beginning.
         3) You can start the game by clicking anywhere in the canvas once it's loaded.
+        
+        [GAME URL](https://roll-and-roll.000webhostapp.com/)
        
         [SCREENSHOT 1](https://github.com/joos2010kj/Games/blob/master/JavaScript/Roll%20and%20Roll/Screen%20Shot/SS1.png)
         
@@ -76,6 +78,8 @@ Quick Note: All of my works written in JavaScript use p5.js library!
     
         CONTROLS: KEYBOARD
         
+        [GAME URL](http://hangman.unaux.com/)
+        
         [SCREENSHOT 1](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hangman/Screen%20Shot/SS1.png)
         
         [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hangman/Screen%20Shot/SS2.png)
@@ -84,6 +88,8 @@ Quick Note: All of my works written in JavaScript use p5.js library!
     - A clone version of the classic Word Search Puzzle, this game randomly picks a specified number of words and lets the client locate all the words in a big map/grid filled with random letters.  All they need to do is to click on all the boxes in which the randomly-chosen words' letters lie! The client may specify the number of words he/she wants there to be (NUMBER_OF_WORDS in client_data.js), specify the size of the map (PUZZLE_SIZE in client_data.js), and also specify the minimum length of a word (MIN_LENGTH in client_data.js).
     
         CONTROLS: MOUSE
+        
+        [GAME URL](http://word-searches.unaux.com/)
         
         [SCREENSHOT 1](https://github.com/joos2010kj/Games/blob/master/JavaScript/Word%20Search/Screen%20Shot/SS1.png)
         
@@ -96,12 +102,16 @@ Quick Note: All of my works written in JavaScript use p5.js library!
     
         CONTROLS: MOUSE
         
+        [GAME URL](hide-and-seek.unaux.com)
+        
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hide%20and%20Seek/Screen%20Shot/SS.png)
         
 5. [Rain Evasion](https://github.com/joos2010kj/Games/tree/master/JavaScript/Rain%20Evasion)
     - Rain Evasion is a game where the player has to swiftly move around (horizontally only) so as to avoid the contact with rain.  Score is primarily based on the number of raindrops you successfully evaded from.  
         
         CONTROLS: MOUSE
+        
+        [GAME URL](rain-evasion.unaux.com)
         
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Rain%20Evasion/Screen%20Shot/SS.png)
 
@@ -110,12 +120,16 @@ Quick Note: All of my works written in JavaScript use p5.js library!
     
         CONTROLS: MOUSE
         
+        [GAME URL](rhythm.unaux.com)
+        
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Rhythm/Screen%20Shot/SS.png)
 
 7. [Flappy Bird Clone](https://github.com/joos2010kj/Games/tree/master/JavaScript/Flappy%20Bird)
     - A simplified, clone version of the famous mobile game Flappy Bird, this is a game where the client has to control a bird not to hit the bricks as the bird flies onward. The bird is controlled by just a SPACEBAR. Score will be based on the number of blocks you successfully got past, so try to fly past as many blocks as possible!
       
       CONTROLS: SPACEBAR
+      
+      [GAME URL](http://flappy-bird-clone.unaux.com/)
       
       [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/Java/Flying%20Bird/Screen%20Shot/SS.png)
       
@@ -135,6 +149,8 @@ Quick Note: All of my works written in JavaScript use p5.js library!
             Mouse OR
             ‘Q’, ‘W’, ‘E’, ‘A’, ’S’, ‘D’, ‘Z’, ‘X’, ‘C’
 
+        [GAME URL](catch-the-moles.unaux.com)
+
         [SCREENSHOT 1](https://github.com/joos2010kj/Games/blob/master/JavaScript/Catch%20the%20Moles/Screen%20Shot/SS1.png)
     
         [SCREENSHOT 2](https://github.com/joos2010kj/Games/blob/master/JavaScript/Catch%20the%20Moles/Screen%20Shot/SS2.png)
@@ -146,6 +162,8 @@ Quick Note: All of my works written in JavaScript use p5.js library!
         CONTROLS:
     
             Mouse
+        
+        [GAME URL](http://draw-your-map.unaux.com/)
         
         [SCREENSHOTS](https://github.com/joos2010kj/Games/tree/master/JavaScript/Draw%20Your%20Map!/Screen%20Shots)
        
@@ -177,7 +195,9 @@ Quick Note: All of my works written in JavaScript use p5.js library!
         CONTROLS:
     
             Mouse
-            
+        
+        [GAME URL](http://hunters.unaux.com/)
+        
         [SCREENSHOTS](https://github.com/joos2010kj/Games/tree/master/JavaScript/Hunter/Screenshot)
     
 ### C++
