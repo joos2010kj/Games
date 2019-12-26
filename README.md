@@ -102,7 +102,7 @@ Quick Note: All of my works written in JavaScript use p5.js library!
     
         CONTROLS: MOUSE
         
-        [GAME URL](hide-and-seek.unaux.com)
+        [GAME URL](http://hide-and-seek.unaux.com)
         
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Hide%20and%20Seek/Screen%20Shot/SS.png)
         
@@ -111,7 +111,7 @@ Quick Note: All of my works written in JavaScript use p5.js library!
         
         CONTROLS: MOUSE
         
-        [GAME URL](rain-evasion.unaux.com)
+        [GAME URL](http://rain-evasion.unaux.com)
         
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Rain%20Evasion/Screen%20Shot/SS.png)
 
@@ -120,7 +120,7 @@ Quick Note: All of my works written in JavaScript use p5.js library!
     
         CONTROLS: MOUSE
         
-        [GAME URL](rhythm.unaux.com)
+        [GAME URL](http://rhythm.unaux.com)
         
         [SCREENSHOT](https://github.com/joos2010kj/Games/blob/master/JavaScript/Rhythm/Screen%20Shot/SS.png)
 
@@ -149,7 +149,7 @@ Quick Note: All of my works written in JavaScript use p5.js library!
             Mouse OR
             ‘Q’, ‘W’, ‘E’, ‘A’, ’S’, ‘D’, ‘Z’, ‘X’, ‘C’
 
-        [GAME URL](catch-the-moles.unaux.com)
+        [GAME URL](http://catch-the-moles.unaux.com)
 
         [SCREENSHOT 1](https://github.com/joos2010kj/Games/blob/master/JavaScript/Catch%20the%20Moles/Screen%20Shot/SS1.png)
     
