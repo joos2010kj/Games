@@ -206,3 +206,10 @@ Quick Note: All of my works written in JavaScript use p5.js library!
     - A game where the player needs to dodge all the obstacles.
     
         CONTROLS: ARROW KEYS
+        
+2. [The Fugitive](https://www.kongregate.com/games/joos2010kj/the-fugitive)
+    - A game created in 2016 using Construct 2, a system used for a game development, in which the user needs to avoid contact with the random objects that pops up every now and then with quick reflex.  
+    
+        CONTROLS:
+        
+            Mouse
