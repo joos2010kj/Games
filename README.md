@@ -1,5 +1,6 @@
 # Games
 #### *TL;DR: Please read this README.md for an overview/description of each game in this repo.*
+### NOTE: The websites are no longer live, so you will be able to play them only through downloading the games from this repo.  However, I made some of the games available for play online [here](https://hyekang.info/game/index.html).
 
 This repo holds a collection of games I have made in Java, JavaScript, and C++.  As a passionate coder who does not like to "play" games but love to "make and develop" games, I have uploaded a series of games I have made in multiple languages to this repo.
 
